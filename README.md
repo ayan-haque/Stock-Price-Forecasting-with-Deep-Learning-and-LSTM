@@ -13,6 +13,7 @@ Stock price predictions can provide valuable insights for investors who are look
 *	This project is a good example of how machine learning models can be trained to make predictions based on historical data, and how such models can be used to forecast future trends in the stock market.
 
 
+
 ## Illustration
-The image below shows the accuracy of the model:
-![Graph.png](https://user-images.githubusercontent.com/110412621/228673491-0e02138b-5362-40c2-b2ee-4459c796b63e.png)
+The image below illustrates the prediction of the model:
+![Graph](https://user-images.githubusercontent.com/110412621/228909233-1862d591-089b-46d4-a47d-9a9794f2d129.jpg)
