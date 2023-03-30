@@ -1,4 +1,9 @@
-# About
+# Tata-Global-Stock-Price-Prediction
+
+## Motivation
+Stock price predictions can provide valuable insights for investors who are looking to make informed decisions about whether to buy, sell or hold a particular stock. By predicting future stock prices, investors can avoid losses and maximize returns. Similarly, accurate stock price predictions can help companies themselves make informed decisions about their investments, mergers, acquisitions, and other business strategies.
+
+## About
 *	The Tata Global Stock Price Prediction Project involves training a Recurrent Neural Network (RNN) using the Long Short-Term Memory (LSTM) architecture on a dataset containing 1200 stock prices of Tata Global Beverages Limited between the years 2013 to 2018.
 *	The goal of the project is to predict the next day stock price using the previous 60 days (3 months) of stock prices.
 * Next 20 subsequent stock price are predicted and compared to the actual stock price on that day.
