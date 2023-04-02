@@ -1,4 +1,4 @@
-# Tata-Global-Stock-Price-Prediction
+# Stock Price Forecasting with Deep Learning and LSTM
 
 ## Motivation
 Stock price predictions can provide valuable insights for investors who are looking to make informed decisions about whether to buy, sell or hold a particular stock. By predicting future stock prices, investors can avoid losses and maximize returns. Similarly, accurate stock price predictions can help companies themselves make informed decisions about their investments, mergers, acquisitions, and other business strategies.
